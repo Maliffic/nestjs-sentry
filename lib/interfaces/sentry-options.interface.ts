@@ -2,7 +2,7 @@ import { ModuleMetadata, Type } from "@nestjs/common/interfaces";
 import { Integration, Options } from '@sentry/types';
 
 export type SentryModuleOptions = Omit<Options, 'integrations'> & {
-    integrations?: Integration[];
+    integrations?: any[];
 };
 
 export interface SentryOptionsFactory {
