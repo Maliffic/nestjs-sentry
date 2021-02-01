@@ -69,7 +69,7 @@
     "typescript": "^3.8.2"
   },
   "dependencies": {
-    "@sentry/node": "^5.12.4"
+    "@sentry/node": "^6.0.3"
   },
   "publishConfig": {
     "access": "public"
