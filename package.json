@@ -60,7 +60,7 @@
     "@types/supertest": "^2.0.8",
     "codecov": "^3.6.5",
     "jest": "^24.9.0",
-    "prettier": "^1.19.1",
+    "prettier": "^2.3.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.5.4",
     "supertest": "^4.0.2",
